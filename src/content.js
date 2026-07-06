@@ -2695,7 +2695,7 @@
         state.attackLists.push({
           name: result.listName,
           targets: [],
-          attackUrl: 'https://www.torn.com/loader.php?sid=attack&user2ID=',
+          attackUrl: 'https://www.torn.com/page.php?sid=attack&user2ID=',
           position: position,
           size: {
             width: CONSTANTS.MIN_GROUP_WIDTH,
